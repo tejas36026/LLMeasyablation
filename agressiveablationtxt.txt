@@ -1,0 +1,137 @@
+🧪 NEURAL ABLATION EXPERIMENT: REMOVING MICROSOFT KNOWLEDGE
+============================================================
+Layer  0: 249 neurons above threshold
+Layer  1: 334 neurons above threshold
+Layer  2: 1125 neurons above threshold
+Layer  3: 1082 neurons above threshold
+Layer  4: 674 neurons above threshold
+Layer  5: 926 neurons above threshold
+Layer  6: 802 neurons above threshold
+Layer  7: 890 neurons above threshold
+Layer  8: 701 neurons above threshold
+Layer  9: 786 neurons above threshold
+Layer 10: 748 neurons above threshold
+Layer 11: 638 neurons above threshold
+Layer 12: 432 neurons above threshold
+Layer 13: 395 neurons above threshold
+Layer 14: 198 neurons above threshold
+Layer 15: 143 neurons above threshold
+Layer 16: 179 neurons above threshold
+Layer 17: 151 neurons above threshold
+Layer 18: 170 neurons above threshold
+Layer 19: 171 neurons above threshold
+Layer 20: 44 neurons above threshold
+Layer 21: 131 neurons above threshold
+
+📍 Found Microsoft-related neurons in 22 layers
+Layer  0: 249 neurons above threshold
+Layer  1: 334 neurons above threshold
+Layer  2: 1125 neurons above threshold
+Layer  3: 1082 neurons above threshold
+Layer  4: 674 neurons above threshold
+Layer  5: 926 neurons above threshold
+Layer  6: 802 neurons above threshold
+Layer  7: 890 neurons above threshold
+Layer  8: 701 neurons above threshold
+Layer  9: 786 neurons above threshold
+Layer 10: 748 neurons above threshold
+Layer 11: 638 neurons above threshold
+Layer 12: 432 neurons above threshold
+Layer 13: 395 neurons above threshold
+Layer 14: 198 neurons above threshold
+Layer 15: 143 neurons above threshold
+Layer 16: 179 neurons above threshold
+Layer 17: 151 neurons above threshold
+Layer 18: 170 neurons above threshold
+Layer 19: 171 neurons above threshold
+Layer 20:  44 neurons above threshold
+Layer 21: 131 neurons above threshold
+Total neurons above threshold: 10969
+
+🔷 BEFORE ABLATION - NORMAL MODEL
+
+🤖 GENERATING: 'Microsoft '
+----------------------------------------
+Result: Microsoft 365 Advanced Security and the following features:
+
+1. Identity Protection: This feature enables you to manage user accounts and
+
+🤖 GENERATING: 'The company Microsoft'
+----------------------------------------
+Result: The company Microsoft has a new version of Office called Office 365, which offers a subscription-based service for the popular desktop suite.
+
+🤖 GENERATING: 'Bill Gates founded'
+----------------------------------------
+Result: Bill Gates founded Microsoft with Paul Allen. 2. Apple: Steve Jobs and Steve Wozniak co-founded Apple in
+
+🎯 TESTING DIFFERENT ABLATION STRATEGIES
+==================================================
+
+🔶 STRATEGY 1: COMPLETE ABLATION (threshold neurons)
+
+⚡ ABLATING MICROSOFT NEURONS
+==================================================
+Ablated 249 neurons in layer 0
+Ablated 334 neurons in layer 1
+Ablated 1125 neurons in layer 2
+Ablated 1082 neurons in layer 3
+Ablated 674 neurons in layer 4
+Ablated 926 neurons in layer 5
+Ablated 802 neurons in layer 6
+Ablated 890 neurons in layer 7
+Ablated 701 neurons in layer 8
+Ablated 786 neurons in layer 9
+Ablated 748 neurons in layer 10
+Ablated 638 neurons in layer 11
+Ablated 432 neurons in layer 12
+Ablated 395 neurons in layer 13
+Ablated 198 neurons in layer 14
+Ablated 143 neurons in layer 15
+Ablated 179 neurons in layer 16
+Ablated 151 neurons in layer 17
+Ablated 170 neurons in layer 18
+Ablated 171 neurons in layer 19
+Ablated 44 neurons in layer 20
+Ablated 131 neurons in layer 21
+Total neurons ablated: 10969
+
+🤖 GENERATING: 'Microsoft '
+----------------------------------------
+Result: Microsoft amosSs (gss orG togar(gly(_s (_(_o
+'ss',o or its (
+
+🤖 GENERATING: 'The company Microsoft'
+----------------------------------------
+Result: The company MicrosoftAGs to,$'AglyS
+, **gentglyGG the our4s _ aG toAPGEg
+
+🔶 STRATEGY 2: GRADUAL ABLATION (50% strength)
+
+⚡ GRADUAL ABLATION (50.0% strength)
+==================================================
+Reduced 249 neurons in layer 0 by 50.0%
+Reduced 334 neurons in layer 1 by 50.0%
+Reduced 1125 neurons in layer 2 by 50.0%
+Reduced 1082 neurons in layer 3 by 50.0%
+Reduced 674 neurons in layer 4 by 50.0%
+Reduced 926 neurons in layer 5 by 50.0%
+Reduced 802 neurons in layer 6 by 50.0%
+Reduced 890 neurons in layer 7 by 50.0%
+Reduced 701 neurons in layer 8 by 50.0%
+Reduced 786 neurons in layer 9 by 50.0%
+Reduced 748 neurons in layer 10 by 50.0%
+Reduced 638 neurons in layer 11 by 50.0%
+Reduced 432 neurons in layer 12 by 50.0%
+Reduced 395 neurons in layer 13 by 50.0%
+Reduced 198 neurons in layer 14 by 50.0%
+Reduced 143 neurons in layer 15 by 50.0%
+Reduced 179 neurons in layer 16 by 50.0%
+Reduced 151 neurons in layer 17 by 50.0%
+Reduced 170 neurons in layer 18 by 50.0%
+Reduced 171 neurons in layer 19 by 50.0%
+Reduced 44 neurons in layer 20 by 50.0%
+Reduced 131 neurons in layer 21 by 50.0%
+Total neurons affected: 10969
+
+🤖 GENERATING: 'Microsoft '
+----------------------------------------
